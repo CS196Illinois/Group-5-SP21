@@ -1,7 +1,7 @@
 # Group 5
 Group Name: Dazzling Dolphins
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/1wZcYsAOHcc7L2PF8BlR1xyCyP01OgT_EWoHbmMPeAl4/edit)
 
 Team Members: zhaoqix2, rohanhh2, shreyap7, mschulz5
 
